@@ -9,7 +9,7 @@ data cleaning
 * [Day 4: Character encodings](https://www.kaggle.com/rtatman/data-cleaning-challenge-character-encodings/)
 * [Day 5: Inconsistent Data Entry](https://www.kaggle.com/rtatman/data-cleaning-challenge-inconsistent-data-entry/)
 ___
-Welcome to day 1 of the 5-Day Data Challenge! Today, we're going to be looking at how to deal with missing values. To get started, click the blue "Fork Notebook" button in the upper, right hand corner. This will create a private copy of this notebook that you can edit and play with. Once you're finished with the exercises, you can choose to make your notebook public to share with others. :)
+Welcome to day 1 of the 5-Day Data Challenge! Today, we're going to be looking at how to deal with missing values. To get started, click the blue "Fork Notebook" button in the upper, right hand corner. This will create a private copy of this notebook that you can edit and play with. Once you're finished with the exercises, you can choose to make your notebook public to share with others. :
 
 
 
@@ -21,3 +21,9 @@ Here's what we're going to do 1's day:
 * [Drop missing values](#Drop-missing-values)
 * [Filling in missing values](#Filling-in-missing-values)
 
+Here's what we're going to do 2's day:
+
+* [Get our environment set up](#Get-our-environment-set-up)
+* [Scaling vs. Normalization: What's the difference?](#Scaling-vs.-Normalization:-What's-the-difference?)
+* [Practice scaling](#Practice-scaling)
+* [Practice normalization](#Practice-normalization)
